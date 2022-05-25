@@ -107,4 +107,4 @@ Once your app is built and DNS is live, open up your Web Browser and type:
 ```
 https://<your_task_url>.risingcloud.app/hello
 ```
-Congratulations, you’ve successfully created and used your Flask app on Rising Cloud!
+Congratulations, you’ve successfully used Flask on Rising Cloud!
